@@ -2620,11 +2620,11 @@ blockquote footer cite:before {
 #aside-content .card-info #card-info-btn {
   display: block;
   margin-top: 0.7rem;
-  background-color: color;
+  background-color: rgba(73,150,245,0.612);
+  color: var(--btn-color);
+  text-align: center;
+  line-height: 2.4;
 }
-#aside-content .card-info #card-info-btn : var(--btn-color),
-#aside-content .card-info #card-info-btn text-align: center,
-#aside-content .card-info #card-info-btn line-height: 2.4,
 #aside-content .card-info #card-info-btn span {
   padding-left: 0.5rem;
 }
@@ -4349,7 +4349,7 @@ blockquote footer cite:before {
   margin-bottom: 2px;
   width: 30px;
   height: 30px;
-  background-color: var(--btn-bg);
+  background-color: rgba(73,177,245,0.639);
   color: var(--btn-color);
   text-align: center;
   font-size: 16px;
