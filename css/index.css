@@ -4069,6 +4069,9 @@ blockquote footer cite:before {
 #article-container > :last-child {
   margin-bottom: 0 !important;
 }
+#post {
+  background: rgba(223,229,236,0.93) !important;
+}
 #post .tag_share .post-meta__tag-list {
   display: inline-block;
 }
@@ -5938,4 +5941,16 @@ blockquote.pullquote.right {
     padding-bottom: 2rem;
     max-height: 75vh !important;
   }
+}
+body {
+  background: rgba(180,206,218,0.3);
+}
+.recent-post-item {
+  background: rgba(223,229,236,0.85) !important;
+}
+.post_cover {
+  filter: filter: alpha(opacity=50);;
+}
+.card-widget {
+  background: rgba(223,229,236,0.85) !important;
 }
