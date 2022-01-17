@@ -3272,7 +3272,7 @@ blockquote footer cite:before {
 #page-header {
   position: relative;
   width: 100%;
-  background-color: rgba(42,126,210,0.301);
+  background-color: rgba(42,126,210,0.1);
   background-position: center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
